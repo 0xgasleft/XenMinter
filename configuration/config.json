@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "POLYGON MAINNET",
+    "symbol": "MATIC",
+    "rpc": "https://endpoints.omniatech.io/v1/matic/mainnet/public",
+    "xen_address": "0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e",
+    "disperser_address": "0xb95b3468A355Ed389E347065102E9002dE1f1B6A",
+    "legacy_disperser_address": "0xD152f549545093347A162Dce210e7293f1452150",
+    "disperser_fee": "0.05",
+    "waiting_period": "2000",
+    "gas_metrics": "https://gasstation-mainnet.matic.network/v2",
+    "explorer_api": "https://api.polygonscan.com/api",
+    "explorer_key": "YOUR_API_KEY"
+  },
+  {
+    "id": "2",
+    "name": "POLYGON MUMBAI",
+    "symbol": "MATIC",
+    "rpc": "https://polygon-mumbai.blockpi.network/v1/rpc/public",
+    "xen_address": "0xdBBb2aa7C1208401382Fd1b611A1D9942B12fa64",
+    "disperser_address": "0xfdebf138E65EBeA5733B4a69B3D2117336f30611",
+    "legacy_disperser_address": "0x004d137222f6B21ec15E9e506339F5Ce497831B2",
+    "disperser_fee": "0.005",
+    "waiting_period": "2000",
+    "gas_metrics": "https://gasstation-mumbai.matic.today/v2",
+    "explorer_api": "https://api-testnet.polygonscan.com/api",
+    "explorer_key": "YOUR_API_KEY"
+  }
+]
